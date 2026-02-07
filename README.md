@@ -2,6 +2,8 @@
 
 A Streamlit application to visualize your Substack growth, identify key conversion drivers, and analyze viral spikes.
 
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 ## Features
 
 - **📊 Growth Visualization**: Interactive line chart showing total subscribers over time.
